@@ -5,8 +5,7 @@ using namespace std;
 
 int main()
 {
-	double total = 0,
-			milli = 3.1;
+	double total = 0, milli = 3.1;
 	
 	cout << "Ocean Levels rising 3.1 millimeters every year\n";
 	cout << "Year\tRaise Level\n";
